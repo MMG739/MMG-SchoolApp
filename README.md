@@ -1,4 +1,4 @@
-# MmgSchool
+# MMG-School
 # School Management Application
 
 ## Description
